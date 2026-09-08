@@ -1,5 +1,9 @@
 # SNS_Marketing_Automation_2
 
+<div align="center">
+<img src="https://github.com/user-attachments/assets/e94e9601-9f1f-4c7a-8fdf-f324ec4d9a61" width="300" alt="사이트_실행">
+<p><em>[그림] ver. 2 전체 요약 </em></p>
+</div>
 
 # **[ 이 문서의 특성 ]**
 
@@ -41,7 +45,7 @@ ver. 1에서 시행 착오와 저조한 성과가 있었으나, 성장을 해냈
 
 <div align="center">
 <img src="https://github.com/user-attachments/assets/d4131153-f500-4175-9970-69f9bc6a6f54" width="500" alt="사이트_실행">
-<p><em>[ 그림 ] 수익 실현 일부 </em></p>
+<p><em>[그림] 수익 실현 일부 </em></p>
 </div>
 
 나의 약점은 0 to 1로는 어떻게든 한다는 것인데, 1 to 10까지 가는 것에 아직 서투르다는 것이다.
@@ -65,7 +69,7 @@ ver. 1의 링크는 아래에 남기겠다.
 
 <div align="center">
 <img src="https://github.com/user-attachments/assets/e94e9601-9f1f-4c7a-8fdf-f324ec4d9a61" width="500" alt="사이트_실행">
-<p><em>[ 그림 ] ver. 2 성과 지표 </em></p>
+<p><em>[그림] ver. 2 성과 지표 </em></p>
 </div>
 
 <br />
@@ -73,7 +77,7 @@ ver. 1의 링크는 아래에 남기겠다.
 
 <div align="center">
 <img src="https://github.com/user-attachments/assets/3e114807-633f-4bef-b476-82d26e54e3e4" width="500" alt="사이트_실행">
-<p><em>[ 그림 ] ver. 1 성과 지표</em></p>
+<p><em>[그림] ver. 1 성과 지표</em></p>
 </div>
 
 <br />
