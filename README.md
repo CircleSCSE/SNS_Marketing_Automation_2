@@ -1,7 +1,7 @@
 # SNS_Marketing_Automation_2
 
 <div align="center">
-<img src="https://github.com/user-attachments/assets/e94e9601-9f1f-4c7a-8fdf-f324ec4d9a61" width="300" alt="사이트_실행">
+<img src="https://github.com/user-attachments/assets/e94e9601-9f1f-4c7a-8fdf-f324ec4d9a61" width="400" alt="사이트_실행">
 <p><em>[그림] ver. 2 전체 요약 </em></p>
 </div>
 
